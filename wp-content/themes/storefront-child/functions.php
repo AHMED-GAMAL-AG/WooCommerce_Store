@@ -74,3 +74,5 @@ function wc_add_my_country_to_continent($continents)
     $continents['EU']['countries'][] = __('NIRE', 'storefront-child');
     return $continents;
 }
+
+require get_stylesheet_directory() . '/inc/wcp-online-summit.php';
