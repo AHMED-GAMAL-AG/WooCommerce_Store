@@ -1,5 +1,5 @@
 ## WordPress WooCommerce Store
-a feature-rich e-commerce platform built on WooCommerce with PayPal, and strip payment gatways.
+a feature-rich e-commerce platform built on WooCommerce with PayPal and Stripe payment gateways.
 
 ## screenshots
 
